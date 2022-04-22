@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FB3FE2F6-06E2-47AA-B7A3-398C7EF80279"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2102AB31-E1FE-4F83-83BE-07CF93536B05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LitResTest/Services/Networking/GetIconListService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getListProducts(request:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2102AB31-E1FE-4F83-83BE-07CF93536B05 - e756c777d6771f2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () throws -&gt; Swift.Array&lt;LitResTest.Cat&gt; in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LitResTest.GetIconListService.getListProducts(request: Foundation.URLRequest, completion: (Swift.Result&lt;Swift.Array&lt;LitResTest.Cat&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "LitResTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tatty/Desktop/LitResTest/LitResTest/Services/Networking/GetIconListService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "2102AB31-E1FE-4F83-83BE-07CF93536B05 - e756c777d6771f2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () throws -&gt; Swift.Array&lt;LitResTest.Cat&gt; in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in LitResTest.GetIconListService.getListProducts(request: Foundation.URLRequest, completion: (Swift.Result&lt;Swift.Array&lt;LitResTest.Cat&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "LitResTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/tatty/Desktop/LitResTest/LitResTest/Services/Networking/GetIconListService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "516">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
